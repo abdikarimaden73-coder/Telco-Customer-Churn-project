@@ -1,2 +1,2 @@
 # Telco-Customer-Churn-project
-Invidiuele project
+Individuele project
